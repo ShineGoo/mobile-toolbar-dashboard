@@ -1,0 +1,10 @@
+{
+  "id": "mobile-toolbar-dashboard",
+  "name": "Mobile Toolbar Dashboard",
+  "version": "3.2.1",
+  "minAppVersion": "1.13.0",
+  "description": "Access mobile commands from a floating dashboard with draggable positioning, scrollable layouts, custom icons, and configuration recovery.",
+  "author": "ShineGoo",
+  "authorUrl": "https://github.com/ShineGoo",
+  "isDesktopOnly": false
+}
